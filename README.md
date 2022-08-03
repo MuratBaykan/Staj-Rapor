@@ -1,6 +1,6 @@
 # Staj-Rapor
 
-
+#TAKIM İSMİ
 
 
 Proje Drive Linkinin içindedir.
