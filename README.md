@@ -3,9 +3,9 @@
 Ekip41
 
 # Takım Elemanları
--Fikret Can YÜCEL
--Hulusi Alper DİLSİZ
--Murat Emin BAYKAN
+-Fikret Can YÜCEL </br>
+-Hulusi Alper DİLSİZ </br>
+-Murat Emin BAYKAN </br>
 
 # Ürün İsmi
 - **Gebze Rehberi**
